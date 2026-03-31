@@ -1,0 +1,20 @@
+# Requirements for Bukavu Waste Collected Data Analysis
+
+# Python version: 3.12.13
+
+# Data Manipulation and structuring
+pandas==2.2.2          # Structured data manipulation (DataFrame), including cleaning, aggregation and preparation of datasets.
+numpy==2.0.2           # Fundamental numerical operations and multidimensional arrays.
+
+# Scientific visualization
+matplotlib==3.10.0     # Static scientific graphs generation.
+seaborn==0.13.2        # Advanced statistical visualizations and improved aesthetics.
+plotly==5.24.1         # Interactive visualizations and multidimensional representations.
+
+# Statistical analysis and modeling
+scipy==1.16.3          # Statistical testing (hypothesis testing, distribution analysis).
+statsmodels==0.14.6    # Parametric statistical models, regressions, and variance analysis.
+scikit-learn==1.6.1    # Implementation of machine learning algorithms (classification, cross-validation, evaluation metrics).
+
+# Time series forecasting
+prophet==1.3.0         # Automatic forecasting of time series data with daily/weekly/yearly seasonality.
